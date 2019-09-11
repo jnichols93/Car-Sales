@@ -13,7 +13,9 @@ export const initialState = {
     { id: 3, name: 'Premium sound system', price: 500 },
     { id: 4, name: 'Rear spoiler', price: 250 },
     {id: 5, name: 'some real big spinners', price: 260},
-    {id: 6, name:'A lifetime of fulfillment',price:'Priceless'}
+    {id: 6, name: 'those bright af for no reason headlights that annoy everyone infront of you guarenteed', price:500},
+    {id: 7, name:'A lifetime of fulfillment', price: 'Priceless'},
+    {id: 8, name: 'Turn signals that show the opposite of whichever way you are turning.', price: 25.00}
   ]
 }
 
